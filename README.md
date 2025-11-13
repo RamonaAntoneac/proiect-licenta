@@ -22,7 +22,7 @@ Pentru fiecare vehicul, sistemul calculează **timpul optim de intrare în inter
 ##  Rezultate
 
 Sistemul a controlat eficient fluxul de vehicule, evitând posibilele coliziuni și menținând distanțele de siguranță în interiorul intersecției.  
-Proiectul propus demonstrează **viabilitatea unui sistem inteligent de control al traficului** în intersecțiile de tip sens giratoriu și poate constitui baza dezvoltării unor **soluții urbane scalabile pentru orașe inteligente (smart cities)**.
+Proiectul propus demonstrează **viabilitatea unui sistem inteligent de control al traficului** în intersecțiile de tip sens giratoriu și poate constitui baza dezvoltării unor **soluții urbane scalabile pentru orașe inteligente**.
 
 
 
